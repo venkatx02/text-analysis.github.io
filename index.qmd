@@ -1,11 +1,14 @@
 ---
-title: "text-analysis.github.io"
+title: "Philosophy / School of Thought Classification for Modern Texts"
+author: Venkat Dasari
 ---
 
-This is a Quarto website.
+**How can language-based models classify modern digital texts into philosophical schools of thought, and what insights can this classification provide about philosophical trends?**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+In today's world, understanding an individual's ideological and philosophical views holds significant advantages. Such information could drive businesses, policy-making and research. Studies have demonstrated a strong correlation between personality traits and political beliefs, indicating that deeper ideological patterns influence decision-making and behavior. While it is impossible to summarize a human being with a single label, identifying a person's closest philosophical perspective can provide meaningful insights into their worldview.
 
-```{r}
-1 + 1
-```
+(I'm not sure about building a custom model but I'm very much interested in the philosophical trends in writings and social media texts)
+
+**Corpus**
+
+**PhilPapers** is a comprehensive index and bibliography of philosophy maintained by the community of philosophers. We monitor all sources of research content in philosophy, including journals, books, and open access archives.

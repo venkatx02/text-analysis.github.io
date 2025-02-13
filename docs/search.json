@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "text-analysis.github.io",
+    "title": "Philosophy / School of Thought Classification for Modern Texts",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "How can language-based models classify modern digital texts into philosophical schools of thought, and what insights can this classification provide about philosophical trends?\nIn today’s world, understanding an individual’s ideological and philosophical views holds significant advantages. Such information could drive businesses, policy-making and research. Studies have demonstrated a strong correlation between personality traits and political beliefs, indicating that deeper ideological patterns influence decision-making and behavior. While it is impossible to summarize a human being with a single label, identifying a person’s closest philosophical perspective can provide meaningful insights into their worldview.\n(I’m not sure about building a custom model but I’m very much interested in the philosophical trends in writings and social media texts)\nCorpus\nPhilPapers is a comprehensive index and bibliography of philosophy maintained by the community of philosophers. We monitor all sources of research content in philosophy, including journals, books, and open access archives."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Hello,\nI’m Venkat, graduate student in the Data Analytics and Computational Social Science (DACSS) program at the University of Massachusetts Amherst. With a bachelor’s degree in computer science and almost-trivial experience in the corporate environment, my expertise lies in web application development and traditional machine learning. Now, I have landed into computational social science which combines computer science and data science with social sciences. I always think about rationality in human beings and having polarization between what is correct and what is not. I love to deal with such questions in the areas of philosophy, political psychology and international affairs."
   }
 ]

@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "introduction.html",
+    "href": "introduction.html",
     "title": "Rationalism and/or Empiricism in Modern Texts",
     "section": "",
     "text": "How can language-based models identify rationalism and empiricism in modern texts such as social media posts?\nIn today’s world, understanding an individual’s philosophical perspective can provide valuable insights into their reasoning patterns, decision-making, and ideological leanings. Rationalism and empiricism represent two foundational approaches to knowledge, shaping debates in science, politics, and everyday discourse. Identifying these epistemological tendencies in modern texts—such as social media posts—can enhance our understanding of how people construct arguments, interpret evidence, and engage with information. Such insights could have applications in fields ranging from political analysis to artificial intelligence, helping to refine models of persuasion, belief formation, and knowledge dissemination in the digital age.\nCorpus\nThe corpus for this study will consist of books explicitly discussing rationalism and empiricism, sourced primarily from Project Gutenberg. These books will include works from philosophers traditionally associated with rationalist and empiricist thought, such as René Descartes, Baruch Spinoza, and Gottfried Wilhelm Leibniz - for rationalism, and John Locke, George Berkeley, and David Hume - for empiricism. However, since language patterns have evolved over time, the corpus will be expanded to include diverse texts from different historical periods and contexts. This will ensure a more comprehensive model that accounts for linguistic shifts and variations in how rationalist and empiricist ideas are expressed, improving its applicability to modern texts like social media posts.\nThis corpus is ideal for addressing the research question because it provides a basis for distinguishing rationalist and empiricist thought. By analyzing linguistic patterns, argument structures, and reasoning styles in texts, we can train models to recognize these epistemological tendencies in modern discourse. The selected works offer clear examples of deductive reasoning and innate ideas in rationalism versus sensory-based, inductive reasoning in empiricism."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "author.html",
+    "href": "author.html",
     "title": "Venkat Dasari",
     "section": "",
     "text": "Hello,\nI’m Venkat, graduate student in the Data Analytics and Computational Social Science (DACSS) program at the University of Massachusetts Amherst. With a bachelor’s degree in computer science and almost-trivial experience in the corporate environment, my expertise lies in web application development and machine learning. Now, I have landed into computational social science which combines computer science and data science with social sciences. I always think about philosophical aspects in human behaviour. I love to deal with such questions in the areas of philosophy, political psychology and international affairs using modern computational approaches."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post 1\n\n\n\n\n\n\n\n\n\n\n\nVenkat Dasari\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-1.html",
+    "href": "posts/post-1.html",
+    "title": "Post 1",
+    "section": "",
+    "text": "Post coming soon!"
   }
 ]

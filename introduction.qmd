@@ -3,11 +3,11 @@ title: "Rationalism and/or Empiricism in Modern Texts"
 author: Venkat Dasari
 ---
 
-**How can language-based models identify rationalism and empiricism in modern texts such as social media posts?**
+<b>How can language-based models identify rationalism and empiricism in modern texts such as social media posts?</b>
 
 In today’s world, understanding an individual’s philosophical perspective can provide valuable insights into their reasoning patterns, decision-making, and ideological leanings. Rationalism and empiricism represent two foundational approaches to knowledge, shaping debates in science, politics, and everyday discourse. Identifying these epistemological tendencies in modern texts—such as social media posts—can enhance our understanding of how people construct arguments, interpret evidence, and engage with information. Such insights could have applications in fields ranging from political analysis to artificial intelligence, helping to refine models of persuasion, belief formation, and knowledge dissemination in the digital age.
 
-**Corpus**
+<b>Corpus</b>
 
 The corpus for this study will consist of books explicitly discussing rationalism and empiricism, sourced primarily from Project Gutenberg. These books will include works from philosophers traditionally associated with rationalist and empiricist thought, such as René Descartes, Baruch Spinoza, and Gottfried Wilhelm Leibniz - for rationalism, and John Locke, George Berkeley, and David Hume - for empiricism. However, since language patterns have evolved over time, the corpus will be expanded to include diverse texts from different historical periods and contexts. This will ensure a more comprehensive model that accounts for linguistic shifts and variations in how rationalist and empiricist ideas are expressed, improving its applicability to modern texts like social media posts.
 

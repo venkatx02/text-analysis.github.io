@@ -6,9 +6,12 @@ website:
   title: "Epistemic Analysis"
   navbar:
     left:
-      - href: index.qmd
+      - href: introduction.qmd
         text: Introduction
-      - href: about.qmd
+      - href: blog.qmd
+        text: Blog
+    right: 
+      - href: author.qmd
         text: About Author
 
 format:

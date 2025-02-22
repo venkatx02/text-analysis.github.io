@@ -1,6 +1,9 @@
 ---
-title: "About Me"
+title: "Venkat Dasari"
 ---
+
+<img src="images/author-venkat.jpeg" alt="Venkat Dasari" width="200px">
+
 
 Hello,
 

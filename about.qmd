@@ -4,5 +4,4 @@ title: "About Me"
 
 Hello,
 
-I'm Venkat, graduate student in the Data Analytics and Computational Social Science (DACSS) program at the University of Massachusetts Amherst. With a bachelor's degree in computer science and almost-trivial experience in the corporate environment, my expertise lies in web application development and traditional machine learning. Now, I have landed into computational social science which combines computer science and data science with social sciences. I always think about rationality in human beings 
-and having polarization between what is correct and what is not. I love to deal with such questions in the areas of philosophy, political psychology and international affairs.
+I'm Venkat, graduate student in the Data Analytics and Computational Social Science (DACSS) program at the University of Massachusetts Amherst. With a bachelor's degree in computer science and almost-trivial experience in the corporate environment, my expertise lies in web application development and machine learning. Now, I have landed into computational social science which combines computer science and data science with social sciences. I always think about philosophical aspects in human behaviour. I love to deal with such questions in the areas of philosophy, political psychology and international affairs using modern computational approaches.

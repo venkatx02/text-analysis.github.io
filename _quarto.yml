@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "text-analysis.github.io"
+  title: "Epistemic Analysis"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Introduction
+      - href: about.qmd
+        text: About Author
 
 format:
   html:
